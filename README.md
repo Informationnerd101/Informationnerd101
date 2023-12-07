@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rawool</h1>
 <h3 align="center">in College with a passion for building tech projects that can make an impact and to make a change in the space industry.</h3>
 
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/VtvNS5ZESQzAmjO5EL/giphy.gif">
+
 - 🔭 I’m currently working on **Automated AI blogger**
 
 - 🌱 I’m currently learning **Computer Vision , Image Processing and Embedded Systems**
