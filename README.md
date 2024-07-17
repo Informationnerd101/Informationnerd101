@@ -3,11 +3,7 @@
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/VtvNS5ZESQzAmjO5EL/giphy.gif">
 
-- 🔭 I’m currently working on **Automated AI blogger**
 
-- 🌱 I’m currently learning **Computer Vision , Image Processing and Embedded Systems**
-
-- 👯 I’m looking to collaborate on **camera recognition parking lot**
 
 - 📫 How to reach me **nikhilarawool@gmail.com**
 
