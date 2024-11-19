@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rawool</h1>
-<h3 align="center">in College with a passion for building tech projects that can make an impact and to make a change in the space industry.</h3>
+<h3 align="center">Tech projects that can make an impact and to make a change in the space industry.</h3>
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/VtvNS5ZESQzAmjO5EL/giphy.gif">
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikhilarawool@gmail.com**
 
-- ⚡ Fun fact **would love to tell my kids that earth was such a struggle**
+- ⚡ Fun fact " Jesse jones with Jonna production to a SpaceBoy Star "
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
