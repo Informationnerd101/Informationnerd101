@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikhilarawool@gmail.com**
 
-- ⚡ Fun fact " Jesse jones with Jonna production to a SpaceBoy Star "
+- ⚡ Fun fact "  "
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
